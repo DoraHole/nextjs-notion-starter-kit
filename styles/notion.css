@@ -192,13 +192,11 @@
   min-height: 23px;
 }
 
-/* 重置 notion-page-cover-wrapper 样式 */
 .notion-page-cover-wrapper,
 .notion-page-cover-wrapper span,
 .notion-page-cover-wrapper img {
-  max-width: none !important; /* 取消最大宽度限制 */
-  border-radius: 0 !important; /* 取消圆角 */
-  box-shadow: none !important; /* 取消阴影 */
+  max-width: 868px !important;
+  border-radius: 12px;
 }
 
 .notion-page-cover-wrapper {
