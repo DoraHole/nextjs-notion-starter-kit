@@ -60,17 +60,3 @@ body {
 ::-webkit-scrollbar-track {           
     background-color: var(--bg-color);
 }
-/* styles/global.css */
-.page-footer {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-  padding: 20px;
-}
-
-.page-footer a {
-  margin: 10px 0;
-  text-decoration: none;
-  color: inherit;
-}
