@@ -84,7 +84,7 @@
 }
 
 .notion-collection-card-cover {
-  aspect-ratio: 16 / 9; /* 设置宽高比 */
+  aspect-ratio: 16 / 9 !important; /* 设置宽高比 */
   border-radius: 12px;
   box-shadow: 2px 2px 8px 4px rgba(15, 15, 15, 0.1);
   border-bottom: 0 none;
