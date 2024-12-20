@@ -249,7 +249,7 @@
   border-radius: 0.5rem; /* 设置边框圆角半径为 0.5rem */
   border-bottom-left-radius: 0.125rem; /* 设置左下边框圆角半径为 0.125rem */
   box-decoration-break: clone; /* 设置盒子装饰样式 */
-  background-color: none; /* 设置背景颜色为无 */
+  background-color:  #f5f5f5; /* 设置背景颜色为无 */
   background-image: linear-gradient(
     119deg,
     var(--bg-color),
